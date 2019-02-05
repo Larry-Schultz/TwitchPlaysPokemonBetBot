@@ -1,6 +1,6 @@
 # twitchPlaysPokemonBetBot
 
-This is an application I wrote around 3 years ago that performed all operations necesary to act as a Betting AI for the Pokemon Stadium mode of Twitch Plays Pokemon.
+This is an application I wrote around 2015 that performed all operations necesary to act as a Betting AI for the Pokemon Stadium mode of Twitch Plays Pokemon.
 
 It has algorithms to determine what pokemon to bet on based on the current bets of current users, the success rates of those users, handles suspected actors using similar algorithms and uses code found elsewhere to predict pokemon matchups.
 
